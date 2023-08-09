@@ -1,0 +1,3136 @@
+------------------------------------------------------------------------
+r574 | kagaro | 2008-10-04 21:37:34 +0000 (Sat, 04 Oct 2008) | 4 lines
+Changed paths:
+   A /tags/v1.03 (from /trunk:573)
+
+Tagging as v1.03.
+
+Releae, changes in thise version:
+Added spanish localizations.
+------------------------------------------------------------------------
+r573 | kagaro | 2008-10-04 20:48:04 +0000 (Sat, 04 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/Locales/GatherMate-esES.lua
+
+GatherMate: added spanish translations from ticket.
+------------------------------------------------------------------------
+r572 | kagaro | 2008-10-04 17:20:38 +0000 (Sat, 04 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/Constants.lua
+
+GatherMate: added dalaran zone size
+------------------------------------------------------------------------
+r570 | kagaro | 2008-10-04 13:59:53 +0000 (Sat, 04 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/Display.lua
+
+GatherMate: added conditionals for Wrath DropDown Menu changes
+------------------------------------------------------------------------
+r568 | kagaro | 2008-10-04 11:41:31 +0000 (Sat, 04 Oct 2008) | 1 line
+Changed paths:
+   M /trunk/Constants.lua
+   M /trunk/Libs
+
+GatherMate: added placeholder dalaran data
+------------------------------------------------------------------------
+r567 | kagaro | 2008-09-30 17:23:27 +0000 (Tue, 30 Sep 2008) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+
+GatherMate: fixed .pkgmeta
+------------------------------------------------------------------------
+r566 | kagaro | 2008-09-30 14:53:19 +0000 (Tue, 30 Sep 2008) | 1 line
+Changed paths:
+   M /trunk/.pkgmeta
+
+Hopefully fix .pkgmeta
+------------------------------------------------------------------------
+r564 | root | 2008-09-29 22:17:41 +0000 (Mon, 29 Sep 2008) | 1 line
+Changed paths:
+   A /trunk/.pkgmeta
+   M /trunk/Libs
+
+Facilitate WowAce-on-CurseForge transition
+------------------------------------------------------------------------
+r562 | root | 2008-09-29 20:58:05 +0000 (Mon, 29 Sep 2008) | 1 line
+Changed paths:
+   D /tmp/trunk/GatherMate
+   A /trunk (from /tmp/trunk/GatherMate:561)
+
+Importing old repo data under /trunk
+------------------------------------------------------------------------
+r561 | shefki | 2008-09-22 19:48:19 +0000 (Mon, 22 Sep 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Constants.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-esES.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-ruRU.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhCN.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhTW.lua
+
+GatherMate: Two more GasCloud types, Cinder and Arctic Cloud.
+
+------------------------------------------------------------------------
+r560 | shefki | 2008-09-20 22:58:13 +0000 (Sat, 20 Sep 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Constants.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-esES.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-ruRU.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhCN.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhTW.lua
+
+GatherMate: Yay the first GasClouds for Wrath, Steam Cloud!
+
+------------------------------------------------------------------------
+r559 | pettigrow | 2008-09-18 16:13:43 +0000 (Thu, 18 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: frFR Update
+------------------------------------------------------------------------
+r558 | kagaro | 2008-09-16 12:09:54 +0000 (Tue, 16 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/GatherMate.toc
+
+GatherMate: updated email tag for transition.
+------------------------------------------------------------------------
+r554 | kagaro | 2008-09-12 18:09:59 +0000 (Fri, 12 Sep 2008) | 1 line
+Changed paths:
+   A /tmp/trunk/GatherMate/Artwork/Fish/anglefish.tga
+   A /tmp/trunk/GatherMate/Artwork/Fish/bonescale.tga
+   A /tmp/trunk/GatherMate/Artwork/Fish/goby.tga
+   A /tmp/trunk/GatherMate/Artwork/Fish/herring.tga
+   A /tmp/trunk/GatherMate/Artwork/Fish/magiceater.tga
+   A /tmp/trunk/GatherMate/Artwork/Fish/manowar.tga
+   A /tmp/trunk/GatherMate/Artwork/Fish/manta.tga
+   A /tmp/trunk/GatherMate/Artwork/Fish/minnow.tga
+   A /tmp/trunk/GatherMate/Artwork/Fish/musselback.tga
+   A /tmp/trunk/GatherMate/Artwork/Fish/nettlefish.tga
+   A /tmp/trunk/GatherMate/Artwork/Fish/rockfin_grouper.tga
+   A /tmp/trunk/GatherMate/Artwork/Fish/salmon.tga
+   A /tmp/trunk/GatherMate/Artwork/Fish/suckerfish.tga
+   A /tmp/trunk/GatherMate/Artwork/Herb/constrictor.tga
+   A /tmp/trunk/GatherMate/Artwork/Herb/evergreen.tga
+   A /tmp/trunk/GatherMate/Artwork/Herb/frostlotus.tga
+   A /tmp/trunk/GatherMate/Artwork/Herb/goldclover.tga
+   A /tmp/trunk/GatherMate/Artwork/Herb/icethorn.tga
+   A /tmp/trunk/GatherMate/Artwork/Herb/misc_flower.tga
+   A /tmp/trunk/GatherMate/Artwork/Herb/tigerlily.tga
+   A /tmp/trunk/GatherMate/Artwork/Herb/trose.tga
+   A /tmp/trunk/GatherMate/Artwork/Herb/whispervine.tga
+   A /tmp/trunk/GatherMate/Artwork/Mine/cobolt.tga
+   A /tmp/trunk/GatherMate/Artwork/Mine/saronite.tga
+   A /tmp/trunk/GatherMate/Artwork/Mine/titanium.tga
+
+GatherMate: added wrath icons. Icon files only
+------------------------------------------------------------------------
+r553 | kagaro | 2008-09-12 16:17:19 +0000 (Fri, 12 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Collector.lua
+   M /tmp/trunk/GatherMate/Constants.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: added new fish schools for wrath,
+------------------------------------------------------------------------
+r552 | kagaro | 2008-09-12 14:53:07 +0000 (Fri, 12 Sep 2008) | 3 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Constants.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: added some wrath missing herb nodes
+
+
+------------------------------------------------------------------------
+r551 | kagaro | 2008-09-12 13:01:43 +0000 (Fri, 12 Sep 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Constants.lua
+
+GatherMate: updated zone sizes after wrath patch changes
+
+------------------------------------------------------------------------
+r550 | pettigrow | 2008-09-11 17:57:40 +0000 (Thu, 11 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: frFR Update
+------------------------------------------------------------------------
+r548 | xinhuan | 2008-09-11 01:34:07 +0000 (Thu, 11 Sep 2008) | 3 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Config.lua
+   M /tmp/trunk/GatherMate/Constants.lua
+   M /tmp/trunk/GatherMate/Display.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: - Add minimum skill level to harvest herbs and ore to the tooltips and config.
+- Add roughknight's code to the minimap icons to simulate click-through and ping the minimap.
+- Also fix Lickbloom to Lichbloom (WotLK herb).
+------------------------------------------------------------------------
+r547 | kagaro | 2008-09-02 13:26:13 +0000 (Tue, 02 Sep 2008) | 3 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Collector.lua
+
+GatherMate: updated collector spell list. Blizzard decided the spell that was cast for items like Ungoro soil, from Opening to Opening - No Text
+
+Changed and tested on live.
+------------------------------------------------------------------------
+r546 | doktorjet | 2008-09-02 08:53:13 +0000 (Tue, 02 Sep 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-ruRU.lua
+
+GatherMate: minor update for ruRU
+------------------------------------------------------------------------
+r545 | doktorjet | 2008-08-31 04:56:59 +0000 (Sun, 31 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-ruRU.lua
+
+GatherMate: few fixes in ruRU locale
+------------------------------------------------------------------------
+r544 | doktorjet | 2008-08-24 15:52:07 +0000 (Sun, 24 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Constants.lua
+
+GatherMate: fixed typo in Constants.lua - "Mine\\rich_throium.tga" -> "Mine\\rich_thorium.tga"
+------------------------------------------------------------------------
+r543 | doktorjet | 2008-08-22 13:50:04 +0000 (Fri, 22 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-ruRU.lua
+
+GatherMate: another tiny fix 4 ruRU...
+------------------------------------------------------------------------
+r542 | doktorjet | 2008-08-18 14:56:03 +0000 (Mon, 18 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-ruRU.lua
+
+GatherMate: minor update for ruRU. Gas nodes and interface text.
+------------------------------------------------------------------------
+r541 | doktorjet | 2008-08-15 21:17:54 +0000 (Fri, 15 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-ruRU.lua
+
+GatherMate: and again - a single node fix for ruRU. What can I do, if changes are found and reported by one or two per day?
+------------------------------------------------------------------------
+r540 | doktorjet | 2008-08-15 14:44:09 +0000 (Fri, 15 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-ruRU.lua
+
+GatherMate: and again minor fixes for ruRU locale, as Blizzards continue to change  names for objects and items...
+------------------------------------------------------------------------
+r539 | doktorjet | 2008-08-14 15:04:43 +0000 (Thu, 14 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-ruRU.lua
+
+GatherMate: small fix in ruRU locale
+------------------------------------------------------------------------
+r538 | next96 | 2008-08-12 15:16:12 +0000 (Tue, 12 Aug 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: 
+- Update locale koKR
+------------------------------------------------------------------------
+r537 | doktorjet | 2008-08-12 14:55:19 +0000 (Tue, 12 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-ruRU.lua
+
+GatherMate: few nodes translations added for ruRU
+------------------------------------------------------------------------
+r536 | doktorjet | 2008-08-11 15:46:12 +0000 (Mon, 11 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-ruRU.lua
+
+GatherMate: minor fixes in ruRU locale
+------------------------------------------------------------------------
+r535 | kagaro | 2008-08-11 05:53:29 +0000 (Mon, 11 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Constants.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: fixed typo in rich cobalt node
+------------------------------------------------------------------------
+r534 | doktorjet | 2008-08-10 19:12:55 +0000 (Sun, 10 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-ruRU.lua
+
+GatherMate: ruRU locale - minor fixes
+------------------------------------------------------------------------
+r533 | xinhuan | 2008-08-10 18:47:39 +0000 (Sun, 10 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Constants.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Typo fix for herb name, Adder's Tonhue -> Adder's Tongue
+------------------------------------------------------------------------
+r530 | xinhuan | 2008-08-10 15:51:21 +0000 (Sun, 10 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Add new WotLK nodes to base enUS locale so that the addon doesn't error.
+------------------------------------------------------------------------
+r529 | kagaro | 2008-08-10 13:37:23 +0000 (Sun, 10 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Constants.lua
+
+GatherMate: added new herb and mining node placeholder data. Will get a real graphic before beta ends, and since the mineral nodes in wrath currently have a placeholder name, expect this ti change before wraht goes live
+------------------------------------------------------------------------
+r528 | xinhuan | 2008-08-10 07:42:44 +0000 (Sun, 10 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Collector.lua
+   M /tmp/trunk/GatherMate/Constants.lua
+   M /tmp/trunk/GatherMate/Display.lua
+
+GatherMate: Add temporary code to collector, display and constants to ignore Scarlet Enclave map (Death Knight starting zone) because both EPL and SE translates to "Eastern Plaguelands" on the map and causes issues.
+------------------------------------------------------------------------
+r527 | kagaro | 2008-08-10 06:33:57 +0000 (Sun, 10 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Constants.lua
+
+GatherMate: added northrend zones as calculated from latest path. Please note these could change any time from now till launch of WOTLK
+------------------------------------------------------------------------
+r525 | kagaro | 2008-08-05 12:15:25 +0000 (Tue, 05 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/GatherMate.toc
+
+GatherMate: fixed name to match case as author tag on the wiki
+------------------------------------------------------------------------
+r521 | kagaro | 2008-08-05 11:47:59 +0000 (Tue, 05 Aug 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/GatherMate.toc
+
+GatherMate: toc update to fix author name to be unified
+------------------------------------------------------------------------
+r520 | doktorjet | 2008-07-30 20:34:49 +0000 (Wed, 30 Jul 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-ruRU.lua
+
+GatherMate: minor update of ruRU localization - fishing nodes. 
+------------------------------------------------------------------------
+r519 | doktorjet | 2008-07-30 14:52:26 +0000 (Wed, 30 Jul 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/GatherMate.toc
+   M /tmp/trunk/GatherMate/Locales/GatherMate-ruRU.lua
+
+GatherMate: updated russian locale, added ruRU notes to .toc
+------------------------------------------------------------------------
+r516 | kagaro | 2008-07-29 16:14:42 +0000 (Tue, 29 Jul 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-ruRU.lua
+
+GatherMate: added ru translations, credit Dr. Jet Cheshirsky
+------------------------------------------------------------------------
+r514 | kagaro | 2008-07-27 17:46:41 +0000 (Sun, 27 Jul 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Config.lua
+   M /tmp/trunk/GatherMate/GatherMate.lua
+
+GatherMate: reverting change, use the config instead
+------------------------------------------------------------------------
+r512 | kagaro | 2008-07-27 17:37:59 +0000 (Sun, 27 Jul 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Config.lua
+
+GatherMate: moved launcher to its own addon.
+------------------------------------------------------------------------
+r511 | kagaro | 2008-07-27 12:22:25 +0000 (Sun, 27 Jul 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Collector.lua
+
+GatherMate: removed no longer need search string for gas cloud detection.
+------------------------------------------------------------------------
+r510 | kagaro | 2008-07-26 13:53:33 +0000 (Sat, 26 Jul 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Constants.lua
+
+GatherMate: Added commented list of new zones and sizes to be check in wrath NOT active
+------------------------------------------------------------------------
+r509 | xinhuan | 2008-07-23 00:29:17 +0000 (Wed, 23 Jul 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Constants.lua
+
+GatherMate: Comment out Bound Adamantite Chest in Constants.lua too, it is unused.
+------------------------------------------------------------------------
+r508 | xinhuan | 2008-07-23 00:27:30 +0000 (Wed, 23 Jul 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhCN.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhTW.lua
+
+GatherMate: Remove "Bound Adamantite Chest" from the list of treasure objects we consider because 1. It only spawns in instances which can't be tracked 2. Some languages have the  translation of it the same as "Adamantite Bound Chest", causing route creation issues in Routes due to conflicting reverse translations.
+------------------------------------------------------------------------
+r507 | kagaro | 2008-07-21 12:14:43 +0000 (Mon, 21 Jul 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Config.lua
+
+GatherMate: changed launcher = true to type = "launcher"
+------------------------------------------------------------------------
+r506 | kagaro | 2008-07-21 11:53:38 +0000 (Mon, 21 Jul 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Config.lua
+
+GatherMate: updated the o to O for linux and fixed global launcher to local variable. Thanks vharr and ammo
+------------------------------------------------------------------------
+r505 | kagaro | 2008-07-21 11:49:50 +0000 (Mon, 21 Jul 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/GatherMate.toc
+
+GatherMate: toc fix
+------------------------------------------------------------------------
+r504 | kagaro | 2008-07-21 11:18:08 +0000 (Mon, 21 Jul 2008) | 1 line
+Changed paths:
+   A /tmp/trunk/GatherMate/Artwork/Icon.tga
+   M /tmp/trunk/GatherMate/Config.lua
+   M /tmp/trunk/GatherMate/GatherMate.toc
+
+GatherMate: added libdatabroker support (a launcher has been requested alot so its been added asa LDB option now), updated teh toc for 2.4.3 and added an icon, credits to OttaDeFe for the icon.
+------------------------------------------------------------------------
+r503 | kunda | 2008-07-16 17:06:38 +0000 (Wed, 16 Jul 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+
+GatherMate: deDE update (Patch 2.4.3)
+------------------------------------------------------------------------
+r502 | pettigrow | 2008-05-24 09:06:28 +0000 (Sat, 24 May 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: frFR Update
+------------------------------------------------------------------------
+r501 | xinhuan | 2008-05-23 04:16:12 +0000 (Fri, 23 May 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhTW.lua
+
+GatherMate: Update zhTW.
+------------------------------------------------------------------------
+r499 | next96 | 2008-05-22 17:42:38 +0000 (Thu, 22 May 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: 
+- Update locale koKR
+------------------------------------------------------------------------
+r498 | ackis | 2008-05-22 16:40:18 +0000 (Thu, 22 May 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate:
+- Fix translation error
+------------------------------------------------------------------------
+r497 | next96 | 2008-05-22 14:57:23 +0000 (Thu, 22 May 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: 
+- Update locale koKR
+------------------------------------------------------------------------
+r496 | kunda | 2008-05-22 12:03:22 +0000 (Thu, 22 May 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+
+GatherMate: deDE update
+------------------------------------------------------------------------
+r495 | wang | 2008-05-22 07:22:00 +0000 (Thu, 22 May 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhCN.lua
+
+GatherMate: zhCN update
+------------------------------------------------------------------------
+r494 | pettigrow | 2008-05-22 05:29:17 +0000 (Thu, 22 May 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: frFR Update
+------------------------------------------------------------------------
+r493 | xinhuan | 2008-05-22 04:11:27 +0000 (Thu, 22 May 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Config.lua
+   M /tmp/trunk/GatherMate/GatherMate.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Add much cleanup options, deleting specific nodes from zones, or even entire databases.
+------------------------------------------------------------------------
+r489 | kunda | 2008-05-14 13:08:10 +0000 (Wed, 14 May 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+
+GatherMate: deDE update
+------------------------------------------------------------------------
+r487 | xinhuan | 2008-05-08 14:42:37 +0000 (Thu, 08 May 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhTW.lua
+
+GatherMate: Update zhTW
+------------------------------------------------------------------------
+r484 | xinhuan | 2008-04-28 22:14:57 +0000 (Mon, 28 Apr 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhCN.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhTW.lua
+
+GatherMate: Fix coloring of FAQ strings (from AceGUI-3.0 patch 2.4 changes)
+------------------------------------------------------------------------
+r483 | wang | 2008-04-28 03:31:06 +0000 (Mon, 28 Apr 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhCN.lua
+
+GatherMate: zhCN update FAQ
+------------------------------------------------------------------------
+r482 | next96 | 2008-04-28 01:47:10 +0000 (Mon, 28 Apr 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: 
+- Update locale koKR
+------------------------------------------------------------------------
+r481 | xinhuan | 2008-04-28 00:18:41 +0000 (Mon, 28 Apr 2008) | 1 line
+Changed paths:
+   A /tmp/trunk/GatherMate/Bindings.xml
+   M /tmp/trunk/GatherMate/Config.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Add a keybind to show/hide the GatherMate minimap icons. This allows users to quickly toggle them to see the underlying minimap terrain and tracking blips (which means you can mouseover it to see what it is).
+------------------------------------------------------------------------
+r480 | next96 | 2008-04-27 12:49:51 +0000 (Sun, 27 Apr 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: 
+- Update locale koKR
+------------------------------------------------------------------------
+r479 | kagaro | 2008-04-27 12:30:20 +0000 (Sun, 27 Apr 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Config.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: renamed Cleanup Database heading to Database Maintenance
+------------------------------------------------------------------------
+r478 | pettigrow | 2008-04-27 12:22:44 +0000 (Sun, 27 Apr 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: frFR Update
+------------------------------------------------------------------------
+r477 | kagaro | 2008-04-27 11:51:47 +0000 (Sun, 27 Apr 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Collector.lua
+   M /tmp/trunk/GatherMate/Config.lua
+   M /tmp/trunk/GatherMate/GatherMate.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: added database locking support, configuration is located under Cleanup Database
+------------------------------------------------------------------------
+r475 | scorpion | 2008-04-19 17:37:09 +0000 (Sat, 19 Apr 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhTW.lua
+
+GatherMate: 
+- Update zhTW localization
+------------------------------------------------------------------------
+r474 | kunda | 2008-04-18 05:57:37 +0000 (Fri, 18 Apr 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+
+GatherMate: deDE update
+------------------------------------------------------------------------
+r473 | xinhuan | 2008-04-15 22:59:47 +0000 (Tue, 15 Apr 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/GatherMate.lua
+
+GatherMate: Add a more descriptive error message in a function that isn't actually used anywhere in any addon or module yet, but been around forever. This function is GatherMate:ClearDB(dbx), used to clear a selected database of all nodes.
+------------------------------------------------------------------------
+r471 | kagaro | 2008-04-11 19:51:15 +0000 (Fri, 11 Apr 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Collector.lua
+
+GatherMate: converted collector to use spellIDs, and 2.4 now give the node for the target of spell casts for Mining, Herb Gathering, and Possibly Pick Lock and Opening. Added a short cut in detection if target is a valid node for the cast spell.
+------------------------------------------------------------------------
+r470 | pettigrow | 2008-04-10 14:13:34 +0000 (Thu, 10 Apr 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: frFR Update
+------------------------------------------------------------------------
+r469 | next96 | 2008-04-09 02:41:16 +0000 (Wed, 09 Apr 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: 
+- Update locale koKR
+------------------------------------------------------------------------
+r468 | pettigrow | 2008-04-06 19:24:11 +0000 (Sun, 06 Apr 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: frFR Update
+------------------------------------------------------------------------
+r464 | wang | 2008-04-06 09:09:24 +0000 (Sun, 06 Apr 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhCN.lua
+
+GatherMate: zhCN update
+------------------------------------------------------------------------
+r463 | xinhuan | 2008-04-06 05:54:55 +0000 (Sun, 06 Apr 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Display.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Add TomTom waypoints to the right click menu
+------------------------------------------------------------------------
+r461 | xinhuan | 2008-04-05 04:09:53 +0000 (Sat, 05 Apr 2008) | 3 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Display.lua
+
+GatherMate:
+- Add a small function to allow an external minimap addon to reparent all GatherMate minimap icons to another Minimap frame.
+- Fix usage of a variable (refresh) that wasn't declared.
+------------------------------------------------------------------------
+r460 | kagaro | 2008-03-27 11:22:02 +0000 (Thu, 27 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Collector.lua
+
+GatherMate: removed debug line from gas testing yesterday
+------------------------------------------------------------------------
+r459 | kagaro | 2008-03-26 21:52:11 +0000 (Wed, 26 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Collector.lua
+
+GatherMate: 2.4 update tested and verified for GasCloud Detection
+------------------------------------------------------------------------
+r458 | kagaro | 2008-03-26 15:46:00 +0000 (Wed, 26 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Collector.lua
+
+GatherMate: added 2.4 support for Gas Cloud Detection
+------------------------------------------------------------------------
+r455 | pettigrow | 2008-03-25 12:50:24 +0000 (Tue, 25 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: frFR Update
+------------------------------------------------------------------------
+r453 | kagaro | 2008-03-25 12:14:09 +0000 (Tue, 25 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Constants.lua
+   M /tmp/trunk/GatherMate/GatherMate.toc
+
+GatherMate: update for new Brackish Schools and updated Toc
+------------------------------------------------------------------------
+r451 | kagaro | 2008-03-24 17:53:45 +0000 (Mon, 24 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Constants.lua
+
+GatherMate: forgot comment mark for brackish schools
+------------------------------------------------------------------------
+r450 | kagaro | 2008-03-24 17:52:40 +0000 (Mon, 24 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Constants.lua
+
+GatherMate: added brackish mixed schools
+------------------------------------------------------------------------
+r449 | kagaro | 2008-03-24 17:50:02 +0000 (Mon, 24 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: added brackish mixed schols to localizations
+------------------------------------------------------------------------
+r448 | nevcairiel | 2008-03-17 14:45:06 +0000 (Mon, 17 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Config.lua
+   M /tmp/trunk/GatherMate/Libs
+   M /tmp/trunk/GatherMate/embeds.xml
+
+GatherMate: use AceDBOptions-3.0
+------------------------------------------------------------------------
+r447 | xinhuan | 2008-03-11 12:39:00 +0000 (Tue, 11 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Config.lua
+   M /tmp/trunk/GatherMate/Display.lua
+   M /tmp/trunk/GatherMate/GatherMate.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhCN.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhTW.lua
+
+GatherMate: Revert the last 2 commits. Might have a better solution.
+------------------------------------------------------------------------
+r446 | xinhuan | 2008-03-11 12:26:20 +0000 (Tue, 11 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Display.lua
+
+GatherMate: Hide the tracking circle if its alpha is 0.
+------------------------------------------------------------------------
+r445 | xinhuan | 2008-03-11 12:17:08 +0000 (Tue, 11 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Config.lua
+   M /tmp/trunk/GatherMate/Display.lua
+   M /tmp/trunk/GatherMate/GatherMate.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhCN.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhTW.lua
+
+GatherMate: Add option for tracking circle's alpha, so that the underlying blip is far more visible if the alpha is set to a lower value.
+------------------------------------------------------------------------
+r444 | xinhuan | 2008-03-11 10:24:01 +0000 (Tue, 11 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhTW.lua
+
+GatherMate: Update zhTW locale from NightOwl.
+------------------------------------------------------------------------
+r441 | kunda | 2008-03-07 09:49:33 +0000 (Fri, 07 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+
+GatherMate: deDE typofix
+------------------------------------------------------------------------
+r440 | pettigrow | 2008-03-06 15:10:17 +0000 (Thu, 06 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: frFR Update
+------------------------------------------------------------------------
+r439 | nevcairiel | 2008-03-06 12:53:45 +0000 (Thu, 06 Mar 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Display.lua
+
+GatherMate: 
+- GMATE-5: ignore minimap scale when sizing the icons
+------------------------------------------------------------------------
+r438 | next96 | 2008-03-06 02:13:47 +0000 (Thu, 06 Mar 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: 
+- Update locale koKR
+------------------------------------------------------------------------
+r437 | kunda | 2008-03-05 13:26:26 +0000 (Wed, 05 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+
+GatherMate: deDE update
+------------------------------------------------------------------------
+r436 | kagaro | 2008-03-04 17:54:50 +0000 (Tue, 04 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Config.lua
+
+GatherMate: allow for a small step value in scale settings GMATE-5
+------------------------------------------------------------------------
+r435 | nevcairiel | 2008-03-04 09:16:11 +0000 (Tue, 04 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Display.lua
+
+GatherMate: fix bug
+------------------------------------------------------------------------
+r434 | nevcairiel | 2008-03-04 09:05:08 +0000 (Tue, 04 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Display.lua
+
+GatherMate: some tweaks to OnUpdate handler
+------------------------------------------------------------------------
+r433 | xinhuan | 2008-03-03 18:54:00 +0000 (Mon, 03 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Collector.lua
+
+GatherMate: Remove the above optimization. ~_~
+------------------------------------------------------------------------
+r432 | xinhuan | 2008-03-03 18:50:37 +0000 (Mon, 03 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Collector.lua
+
+GatherMate: Small optimization. Also uncomment 2 locals that for some reason was commented, causing them to be globals.
+------------------------------------------------------------------------
+r431 | next96 | 2008-03-01 16:57:00 +0000 (Sat, 01 Mar 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: 
+- Update locale koKR
+------------------------------------------------------------------------
+r430 | wang | 2008-03-01 09:15:52 +0000 (Sat, 01 Mar 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhCN.lua
+
+GatherMate: zhCN update
+------------------------------------------------------------------------
+r429 | xinhuan | 2008-02-29 23:14:59 +0000 (Fri, 29 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Display.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Add an item to the right click menu for world map nodes for Cartographer_Waypoints
+------------------------------------------------------------------------
+r428 | kagaro | 2008-02-29 12:46:11 +0000 (Fri, 29 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Config.lua
+
+GatherMate: Updated icon scale range to allow a max of 2 for scaling
+------------------------------------------------------------------------
+r426 | next96 | 2008-02-27 13:12:47 +0000 (Wed, 27 Feb 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: 
+- Update locale koKR
+------------------------------------------------------------------------
+r425 | xinhuan | 2008-02-24 02:55:52 +0000 (Sun, 24 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Display.lua
+
+GatherMate: Set the framestrata and framelevel of the recycled pins on both the Minimap and WorldMapButton when we reparent them.
+------------------------------------------------------------------------
+r424 | kunda | 2008-02-23 20:51:12 +0000 (Sat, 23 Feb 2008) | 5 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+
+GatherMate:
+- deDE update
+  deDE note:
+  incorrect 'Arthas' Tears' nodes import with GatherMate/GatherMate_CartImport & Cartographer_Herbalism
+  because of a wrong localized deDE string is fixed now
+------------------------------------------------------------------------
+r422 | xinhuan | 2008-02-20 08:57:16 +0000 (Wed, 20 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Display.lua
+
+GatherMate: Change tooltip anchor to be based on UIParent's center. Really make the nodes on the edge of the minimap be hidden instead of setting their alpha to 0 if "Show Nodes on Minimap Border" option is off.
+------------------------------------------------------------------------
+r414 | next96 | 2008-02-11 16:42:13 +0000 (Mon, 11 Feb 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: 
+- Update locale koKR
+------------------------------------------------------------------------
+r412 | pettigrow | 2008-02-11 09:44:33 +0000 (Mon, 11 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: frFR Update
+------------------------------------------------------------------------
+r411 | nevcairiel | 2008-02-11 07:50:56 +0000 (Mon, 11 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Display.lua
+
+GatherMate: fix tooltip code for multiple nodes in one place
+------------------------------------------------------------------------
+r409 | xinhuan | 2008-02-10 18:31:58 +0000 (Sun, 10 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/GatherMate.lua
+
+GatherMate: Remove 2 unused functions :Debug() and :NodeExists()
+------------------------------------------------------------------------
+r408 | nevcairiel | 2008-02-10 18:20:23 +0000 (Sun, 10 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/GatherMate.lua
+
+GatherMate: fixes
+------------------------------------------------------------------------
+r405 | kagaro | 2008-02-10 17:59:20 +0000 (Sun, 10 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Config.lua
+
+GatherMate: added check for treasure on import
+------------------------------------------------------------------------
+r404 | xinhuan | 2008-02-10 17:53:37 +0000 (Sun, 10 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: Removed FAQ entry about not supporting Treasure in GatherMate.
+------------------------------------------------------------------------
+r402 | nevcairiel | 2008-02-10 17:44:10 +0000 (Sun, 10 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Collector.lua
+   M /tmp/trunk/GatherMate/Config.lua
+   M /tmp/trunk/GatherMate/Constants.lua
+   M /tmp/trunk/GatherMate/GatherMate.lua
+
+GatherMate: rename internal Treasure DB
+------------------------------------------------------------------------
+r401 | kagaro | 2008-02-10 17:38:16 +0000 (Sun, 10 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/GatherMate.lua
+
+GatherMate: added a missing upscale
+------------------------------------------------------------------------
+r400 | kagaro | 2008-02-10 17:27:52 +0000 (Sun, 10 Feb 2008) | 1 line
+Changed paths:
+   A /tmp/trunk/GatherMate/Artwork/Treasure
+   A /tmp/trunk/GatherMate/Artwork/Treasure/blood.tga
+   A /tmp/trunk/GatherMate/Artwork/Treasure/chest.tga
+   A /tmp/trunk/GatherMate/Artwork/Treasure/clam.tga
+   A /tmp/trunk/GatherMate/Artwork/Treasure/egg.tga
+   A /tmp/trunk/GatherMate/Artwork/Treasure/footlocker.tga
+   A /tmp/trunk/GatherMate/Artwork/Treasure/mushroom.tga
+   A /tmp/trunk/GatherMate/Artwork/Treasure/soil.tga
+   A /tmp/trunk/GatherMate/Artwork/Treasure/sprout.tga
+   A /tmp/trunk/GatherMate/Artwork/Treasure/treasure.tga
+   M /tmp/trunk/GatherMate/Collector.lua
+   M /tmp/trunk/GatherMate/Config.lua
+   M /tmp/trunk/GatherMate/Constants.lua
+   M /tmp/trunk/GatherMate/GatherMate.lua
+   M /tmp/trunk/GatherMate/GatherMate.toc
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Treasure system in place, config and display updated.
+------------------------------------------------------------------------
+r399 | xinhuan | 2008-02-10 17:23:53 +0000 (Sun, 10 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-esES.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhCN.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-zhTW.lua
+
+GatherMate: Localize "Opening" and "Pick Lock" in every language. Localize "Engineering" in zhCN and zhTW.
+------------------------------------------------------------------------
+r398 | kagaro | 2008-02-10 16:42:32 +0000 (Sun, 10 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: added pick lock spell for footlockers
+------------------------------------------------------------------------
+r397 | kagaro | 2008-02-10 16:37:03 +0000 (Sun, 10 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: treasure list we will track
+------------------------------------------------------------------------
+r396 | next96 | 2008-02-10 16:34:33 +0000 (Sun, 10 Feb 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/GatherMate.toc
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: 
+- Update locale koKR
+------------------------------------------------------------------------
+r395 | nevcairiel | 2008-02-10 16:29:19 +0000 (Sun, 10 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Collector.lua
+   M /tmp/trunk/GatherMate/Config.lua
+   M /tmp/trunk/GatherMate/Constants.lua
+   M /tmp/trunk/GatherMate/Display.lua
+   M /tmp/trunk/GatherMate/GatherMate.lua
+   M /tmp/trunk/GatherMate/GatherMate.toc
+
+GatherMate: merge some changes from branch, basically splitting up node data into its own namespaces, and abstracting data registration
+------------------------------------------------------------------------
+r394 | kagaro | 2008-02-10 16:27:54 +0000 (Sun, 10 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Collector.lua
+
+GatherMate: added opening spell detection
+------------------------------------------------------------------------
+r393 | kagaro | 2008-02-10 16:26:23 +0000 (Sun, 10 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: prep for tresure, adding Opening spell
+------------------------------------------------------------------------
+r391 | kagaro | 2008-02-10 16:08:03 +0000 (Sun, 10 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Constants.lua
+
+GatherMate: added sunwell to the zone data
+------------------------------------------------------------------------
+r389 | nevcairiel | 2008-02-09 13:55:49 +0000 (Sat, 09 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/GatherMate.lua
+
+GatherMate: remove a redundant check from PointToYards because our metatable will always see to zoneData returning a valid table (even though it might return all 0's)
+------------------------------------------------------------------------
+r388 | nevcairiel | 2008-02-09 13:50:23 +0000 (Sat, 09 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Display.lua
+
+GatherMate: bail out early on zones that are not defined in our zoneData table (twisting nether, blackrock mountain, who knows what else)
+------------------------------------------------------------------------
+r385 | pettigrow | 2008-02-06 17:59:11 +0000 (Wed, 06 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: frFR Update
+------------------------------------------------------------------------
+r383 | next96 | 2008-02-06 03:54:05 +0000 (Wed, 06 Feb 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: 
+- Update locale koKR
+------------------------------------------------------------------------
+r382 | nevcairiel | 2008-02-05 17:53:44 +0000 (Tue, 05 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Display.lua
+
+GatherMate: update map zone when worldmap is hidden
+------------------------------------------------------------------------
+r380 | xinhuan | 2008-02-05 15:06:33 +0000 (Tue, 05 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Collector.lua
+   M /tmp/trunk/GatherMate/Config.lua
+   M /tmp/trunk/GatherMate/GatherMate.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: You may now set the Cleanup Radius (in yards) for the cleanup function for each database. These radius settings are also followed when you find nodes in your travels.
+------------------------------------------------------------------------
+r378 | next96 | 2008-02-04 16:31:01 +0000 (Mon, 04 Feb 2008) | 3 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Config.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: 
+- some locale add
+- Update locale koKR
+------------------------------------------------------------------------
+r376 | stan | 2008-02-04 15:25:07 +0000 (Mon, 04 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-deDE.lua
+
+GatherMate: deDE update.
+------------------------------------------------------------------------
+r372 | next96 | 2008-02-04 04:53:41 +0000 (Mon, 04 Feb 2008) | 2 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: 
+- Update locale koKR
+------------------------------------------------------------------------
+r368 | xinhuan | 2008-02-04 01:56:16 +0000 (Mon, 04 Feb 2008) | 3 lines
+Changed paths:
+   M /tmp/trunk/GatherMate/GatherMate.toc
+
+GatherMate:
+- Add ## X-Embeds: Ace3
+- Remove LibBabble-Zone-3.0 from OptionalDeps
+------------------------------------------------------------------------
+r362 | kagaro | 2008-02-03 19:40:42 +0000 (Sun, 03 Feb 2008) | 1 line
+Changed paths:
+   A /tmp/trunk/GatherMate (from /tmp/branches/GatherMate:361)
+
+GatherMate: beta update to trunk
+------------------------------------------------------------------------
+r361 | nevcairiel | 2008-02-03 19:28:00 +0000 (Sun, 03 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Libs
+
+GatherMate: update externals to Ace3 trunk
+------------------------------------------------------------------------
+r360 | nevcairiel | 2008-02-03 16:31:44 +0000 (Sun, 03 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Libs
+
+GatherMate: update externals
+------------------------------------------------------------------------
+r359 | kagaro | 2008-02-03 15:31:13 +0000 (Sun, 03 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: mouse over tooltip now colored, to match tracking circle of the pin
+------------------------------------------------------------------------
+r358 | xinhuan | 2008-02-03 09:02:30 +0000 (Sun, 03 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: Fix world map icons not drawing on the world map when viewing zone maps while in an instance.
+------------------------------------------------------------------------
+r357 | nevcairiel | 2008-02-02 14:21:53 +0000 (Sat, 02 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+GatherMate: add another metatable to the zoneList table for zones that are not reachable through the world map (twisting nether for example)
+------------------------------------------------------------------------
+r356 | nevcairiel | 2008-02-02 13:56:30 +0000 (Sat, 02 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+GatherMate: simplify zone table metatable and output a warning if zonedata is missing
+------------------------------------------------------------------------
+r355 | nevcairiel | 2008-02-02 13:42:19 +0000 (Sat, 02 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/Libs
+   M /tmp/branches/GatherMate/embeds.xml
+
+GatherMate: removed dependancy on Babble-Zone, the list is now generated on initial load from information supplied by the client
+------------------------------------------------------------------------
+r354 | nevcairiel | 2008-02-02 11:51:16 +0000 (Sat, 02 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: the iterators do not use upvalues anymore, so you can nest them.(not that nesting a iterator on a full node db is good for performance...)
+------------------------------------------------------------------------
+r353 | nevcairiel | 2008-02-02 11:30:24 +0000 (Sat, 02 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: fix iterators to work with passed values from for rather then keeping it in upvalues
+------------------------------------------------------------------------
+r351 | xinhuan | 2008-02-01 20:50:54 +0000 (Fri, 01 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: Add a function for GatherMate_Sharing to delete nodes without callbacks
+------------------------------------------------------------------------
+r348 | xinhuan | 2008-02-01 06:56:42 +0000 (Fri, 01 Feb 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: Add ordering numbers to the configuration options tree. Move Cleanup Database to its own subtree.
+------------------------------------------------------------------------
+r341 | xinhuan | 2008-01-28 23:43:28 +0000 (Mon, 28 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: Add an option for the tracking circle to only show up always/never/with profession/while tracking.
+------------------------------------------------------------------------
+r340 | nevcairiel | 2008-01-28 13:36:42 +0000 (Mon, 28 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: dont send an event on InjectNode, and fix event listener in Display module
+------------------------------------------------------------------------
+r338 | pettigrow | 2008-01-28 08:38:48 +0000 (Mon, 28 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: frFR Update
+------------------------------------------------------------------------
+r336 | nevcairiel | 2008-01-27 15:53:21 +0000 (Sun, 27 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: remove disabled from the filter options
+------------------------------------------------------------------------
+r335 | nevcairiel | 2008-01-27 15:28:10 +0000 (Sun, 27 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: fix upvalues in Config too
+------------------------------------------------------------------------
+r334 | nevcairiel | 2008-01-27 15:26:29 +0000 (Sun, 27 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: eliminate all config upvalues from Display module
+------------------------------------------------------------------------
+r333 | nevcairiel | 2008-01-27 15:13:23 +0000 (Sun, 27 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: fix more upvalues
+------------------------------------------------------------------------
+r332 | nevcairiel | 2008-01-27 15:12:00 +0000 (Sun, 27 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: update db upvalue in Display module when profile changes
+------------------------------------------------------------------------
+r330 | nevcairiel | 2008-01-27 13:39:29 +0000 (Sun, 27 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: replace headers with descriptions and localize new strings
+------------------------------------------------------------------------
+r329 | nevcairiel | 2008-01-27 13:14:02 +0000 (Sun, 27 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: implemented more complete profile handling, may need some description entries tho.
+------------------------------------------------------------------------
+r328 | kagaro | 2008-01-27 12:53:27 +0000 (Sun, 27 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Added profile selection to config, fixed the select all/none options after the last db refactor.
+------------------------------------------------------------------------
+r327 | nevcairiel | 2008-01-27 12:00:21 +0000 (Sun, 27 Jan 2008) | 1 line
+Changed paths:
+   D /tmp/branches/GatherMate/Artwork/Herb/deaming_glory.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/dreaming_glory.tga (from /tmp/branches/GatherMate/Artwork/Herb/deaming_glory.tga:326)
+   M /tmp/branches/GatherMate/Constants.lua
+
+GatherMate: fix typo in artwork file name
+------------------------------------------------------------------------
+r326 | nevcairiel | 2008-01-26 17:53:21 +0000 (Sat, 26 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+GatherMate: oh yeah and silver in iron, while i am at it =P
+------------------------------------------------------------------------
+r325 | nevcairiel | 2008-01-26 17:51:47 +0000 (Sat, 26 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+GatherMate: gold is a rarespawn of mithril too
+------------------------------------------------------------------------
+r324 | nevcairiel | 2008-01-26 14:22:00 +0000 (Sat, 26 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: small tweak
+------------------------------------------------------------------------
+r323 | nevcairiel | 2008-01-26 14:14:34 +0000 (Sat, 26 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: small optimization to GetNodesForZone
+------------------------------------------------------------------------
+r322 | nevcairiel | 2008-01-26 14:12:12 +0000 (Sat, 26 Jan 2008) | 2 lines
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: 
+- GatherMate:GetNodesForZone() will apply the currently active node filter on its result, use the third optional argument to override
+------------------------------------------------------------------------
+r321 | nevcairiel | 2008-01-26 13:56:24 +0000 (Sat, 26 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: update visibility when config changes
+------------------------------------------------------------------------
+r320 | nevcairiel | 2008-01-26 13:55:21 +0000 (Sat, 26 Jan 2008) | 2 lines
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: 
+- refactor the db layout for filter and show state
+------------------------------------------------------------------------
+r319 | nevcairiel | 2008-01-26 12:14:30 +0000 (Sat, 26 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: cleanup some event registration/unregistration
+------------------------------------------------------------------------
+r318 | funkydude | 2008-01-25 16:56:20 +0000 (Fri, 25 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: bugfix
+------------------------------------------------------------------------
+r317 | kagaro | 2008-01-25 12:47:18 +0000 (Fri, 25 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Added bc only option for import from GatherMate_Data, and auto import settings. DRYCODE
+------------------------------------------------------------------------
+r315 | xinhuan | 2008-01-25 06:07:15 +0000 (Fri, 25 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/embeds.xml
+
+GatherMate: Remove AceHook-3.0 from embeds.xml as it is not used.
+------------------------------------------------------------------------
+r314 | pettigrow | 2008-01-25 00:49:48 +0000 (Fri, 25 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: frFR Update
+------------------------------------------------------------------------
+r312 | xinhuan | 2008-01-24 23:26:07 +0000 (Thu, 24 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Localize the new options
+------------------------------------------------------------------------
+r311 | xinhuan | 2008-01-24 23:23:22 +0000 (Thu, 24 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: Add option to control tracking distance (the distance to a node before it changes to a tracking circle). Fix an update bug from last commit.
+------------------------------------------------------------------------
+r310 | xinhuan | 2008-01-24 23:02:00 +0000 (Thu, 24 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: Different databases will now each use a different tracking circle color
+------------------------------------------------------------------------
+r309 | xinhuan | 2008-01-24 21:33:04 +0000 (Thu, 24 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Add a FAQ section
+------------------------------------------------------------------------
+r306 | pettigrow | 2008-01-24 16:27:22 +0000 (Thu, 24 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: frFR Update
+------------------------------------------------------------------------
+r305 | nevcairiel | 2008-01-24 16:22:42 +0000 (Thu, 24 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: refresh all maps after a cleanup operation
+------------------------------------------------------------------------
+r301 | nevcairiel | 2008-01-24 13:45:22 +0000 (Thu, 24 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: change the way the new border toggle affects display
+------------------------------------------------------------------------
+r300 | kagaro | 2008-01-24 13:40:19 +0000 (Thu, 24 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: Added sendmessage for node inject 
+------------------------------------------------------------------------
+r299 | nevcairiel | 2008-01-24 13:36:54 +0000 (Thu, 24 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-deDE.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-esES.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-frFR.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: add option to toggle nodes on minimap border
+------------------------------------------------------------------------
+r298 | nevcairiel | 2008-01-24 13:28:18 +0000 (Thu, 24 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: fix error with Extract Gas profession tracking
+------------------------------------------------------------------------
+r297 | nevcairiel | 2008-01-24 13:27:41 +0000 (Thu, 24 Jan 2008) | 3 lines
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-deDE.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-esES.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-frFR.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-koKR.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-zhCN.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-zhTW.lua
+
+GatherMate: 
+- use default profile instead of per-char
+- change node display options to selects with options for Always, Never, With Profession, While Tracking
+------------------------------------------------------------------------
+r296 | kagaro | 2008-01-24 12:49:33 +0000 (Thu, 24 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/LICENSE.txt
+
+GatherMate: fixed spelling error
+------------------------------------------------------------------------
+r295 | kagaro | 2008-01-24 12:48:17 +0000 (Thu, 24 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/GatherMate.toc
+   A /tmp/branches/GatherMate/LICENSE.txt
+
+GatherMate: added credits to Astrolabe for lookup tables and added gpl license
+------------------------------------------------------------------------
+r289 | nevcairiel | 2008-01-23 22:59:34 +0000 (Wed, 23 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: increase gathering overlap distance to 15yards
+------------------------------------------------------------------------
+r288 | kagaro | 2008-01-23 22:04:35 +0000 (Wed, 23 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Locales/GatherMate-deDE.lua
+
+GatherMate: Updated german translations, credit to Borlox for the missing ones
+------------------------------------------------------------------------
+r287 | xinhuan | 2008-01-23 01:15:26 +0000 (Wed, 23 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: Change the arguments for SendMessage() to include the name of the node being added
+------------------------------------------------------------------------
+r286 | pettigrow | 2008-01-22 15:45:42 +0000 (Tue, 22 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.toc
+   M /tmp/branches/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: frFR Update
+------------------------------------------------------------------------
+r285 | xinhuan | 2008-01-22 15:15:23 +0000 (Tue, 22 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Locales/GatherMate-deDE.lua
+
+GatherMate: Update deDE locale sent in by Borlox
+------------------------------------------------------------------------
+r284 | kagaro | 2008-01-22 14:27:40 +0000 (Tue, 22 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Locales/GatherMate-koKR.lua
+
+GatherMate: added koKR translations
+------------------------------------------------------------------------
+r283 | xinhuan | 2008-01-22 14:20:11 +0000 (Tue, 22 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Locales/GatherMate-deDE.lua
+
+GatherMate: Add deDE locales for all nodes
+------------------------------------------------------------------------
+r282 | kagaro | 2008-01-22 14:15:16 +0000 (Tue, 22 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Locales.xml
+
+GatherMate: udpated locales.xml for new name
+------------------------------------------------------------------------
+r281 | kagaro | 2008-01-22 14:14:52 +0000 (Tue, 22 Jan 2008) | 1 line
+Changed paths:
+   D /tmp/branches/GatherMate/Locales/GatherMate-enES.lua
+   A /tmp/branches/GatherMate/Locales/GatherMate-esES.lua (from /tmp/branches/GatherMate/Locales/GatherMate-enES.lua:280)
+
+GatherMate: renmed es translation file
+------------------------------------------------------------------------
+r280 | kagaro | 2008-01-22 14:13:48 +0000 (Tue, 22 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Locales/GatherMate-enES.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-frFR.lua
+
+GatherMate: Added esES and frFR translations for nodes and spells
+------------------------------------------------------------------------
+r279 | xinhuan | 2008-01-22 14:11:46 +0000 (Tue, 22 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Locales/GatherMate-zhCN.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-zhTW.lua
+
+GatherMate: Add zhCN and zhTW locales for all nodes
+------------------------------------------------------------------------
+r278 | kagaro | 2008-01-22 13:41:26 +0000 (Tue, 22 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GaherMate: commented out ancient lichen form translations .. not needed
+------------------------------------------------------------------------
+r277 | kagaro | 2008-01-22 13:38:33 +0000 (Tue, 22 Jan 2008) | 2 lines
+Changed paths:
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: enus localizations, removed some more duplicates that got added via cut-and-paste
+
+------------------------------------------------------------------------
+r276 | kagaro | 2008-01-22 13:35:59 +0000 (Tue, 22 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatehrMate: updated enUS locale for un needed translations
+------------------------------------------------------------------------
+r275 | kagaro | 2008-01-22 13:30:35 +0000 (Tue, 22 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+GatherMate: removed nodes that aren't detectable i.e. in an instance of come from other nodes
+------------------------------------------------------------------------
+r274 | nevcairiel | 2008-01-22 10:11:52 +0000 (Tue, 22 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: change range of node-cleanup to 10yards, and simplify cleanup function
+------------------------------------------------------------------------
+r273 | xinhuan | 2008-01-22 06:35:10 +0000 (Tue, 22 Jan 2008) | 1 line
+Changed paths:
+   D /tmp/branches/GatherMate/Artwork/readme.txt
+   M /tmp/branches/GatherMate/Artwork/track_circle.tga
+
+GatherMate: Use a tracking circle that is "less thick" with more transparency around the edges. Remove useless readme.txt in the Artwork folder.
+------------------------------------------------------------------------
+r272 | kagaro | 2008-01-20 23:50:58 +0000 (Sun, 20 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+
+GatherMate: fixed bug in fish detection
+------------------------------------------------------------------------
+r271 | nevcairiel | 2008-01-20 23:29:43 +0000 (Sun, 20 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: simplify rotation code again
+------------------------------------------------------------------------
+r270 | kagaro | 2008-01-20 23:28:09 +0000 (Sun, 20 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: fixes for config and fish for import, and node recording duplicates
+------------------------------------------------------------------------
+r269 | nevcairiel | 2008-01-20 23:23:19 +0000 (Sun, 20 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: fix rotating minimap issues
+------------------------------------------------------------------------
+r267 | kagaro | 2008-01-20 22:53:44 +0000 (Sun, 20 Jan 2008) | 1 line
+Changed paths:
+   D /tmp/branches/GatherMate/Artwork/Fish/fish_circle.tga
+   D /tmp/branches/GatherMate/Artwork/Gas/gas_circle.tga
+   D /tmp/branches/GatherMate/Artwork/Herb/herb_circle.tga
+   D /tmp/branches/GatherMate/Artwork/Mine/mine_circle.tga
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: fixed add item logic
+------------------------------------------------------------------------
+r266 | ammo | 2008-01-20 22:00:25 +0000 (Sun, 20 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+
+GatherMate: fix drycode errors
+------------------------------------------------------------------------
+r265 | kagaro | 2008-01-20 21:42:07 +0000 (Sun, 20 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: updated collector addItem logic to only fire an event first time a multi-tap node is found
+------------------------------------------------------------------------
+r264 | kagaro | 2008-01-20 21:31:39 +0000 (Sun, 20 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: We only do nearby check and not fir a new event if the node already exists at x,y
+------------------------------------------------------------------------
+r263 | kagaro | 2008-01-20 19:03:49 +0000 (Sun, 20 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: Added fish to import options for GatherMate_Data
+------------------------------------------------------------------------
+r260 | xinhuan | 2008-01-19 22:39:25 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: Add icons to the rightclick pin menu
+------------------------------------------------------------------------
+r259 | kagaro | 2008-01-19 21:48:37 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: removed pause/unpause
+------------------------------------------------------------------------
+r255 | kagaro | 2008-01-19 21:24:30 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: fixed assignment error putting data in wrong state
+------------------------------------------------------------------------
+r254 | kagaro | 2008-01-19 21:18:58 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatehrMate: fixed db clear re-assignment
+------------------------------------------------------------------------
+r253 | xinhuan | 2008-01-19 21:15:42 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: Fix wrong variable name
+------------------------------------------------------------------------
+r250 | kagaro | 2008-01-19 20:52:31 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: Added inject method for importing
+------------------------------------------------------------------------
+r249 | kagaro | 2008-01-19 20:37:57 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: add a pause routine to ensure data gets added correctly
+------------------------------------------------------------------------
+r246 | kagaro | 2008-01-19 18:36:01 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: made a helper accessable to importers
+------------------------------------------------------------------------
+r245 | nevcairiel | 2008-01-19 17:42:27 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+GatherMate: apply a metatable to zoneData which returns an empty set of information for invalid zones
+------------------------------------------------------------------------
+r244 | kagaro | 2008-01-19 17:12:51 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+
+GatherMate: updated range check for fish and gas clouds
+------------------------------------------------------------------------
+r243 | kagaro | 2008-01-19 15:43:22 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Fishined auto importing for data sources
+------------------------------------------------------------------------
+r242 | kagaro | 2008-01-19 15:30:33 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: auto import stuff
+------------------------------------------------------------------------
+r241 | xinhuan | 2008-01-19 15:29:14 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/GatherMate.toc
+   M /tmp/branches/GatherMate/Locales/GatherMate-deDE.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enES.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-frFR.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-koKR.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-ruRU.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-zhCN.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-zhTW.lua
+   M /tmp/branches/GatherMate/Locales.xml
+   M /tmp/branches/GatherMate/embeds.xml
+
+GatherMate: Convert all files to UTF8 format
+------------------------------------------------------------------------
+r239 | xinhuan | 2008-01-19 15:24:06 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: Fix function closing "ends"
+------------------------------------------------------------------------
+r235 | kagaro | 2008-01-19 15:08:21 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: more profile defaults
+------------------------------------------------------------------------
+r234 | kagaro | 2008-01-19 15:07:15 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: Big config changes for Imports
+------------------------------------------------------------------------
+r232 | xinhuan | 2008-01-19 14:58:36 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: Add some Config module functions for external modules to register their option tables.
+------------------------------------------------------------------------
+r228 | xinhuan | 2008-01-19 13:59:08 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Add descriptions to the remainder of config
+------------------------------------------------------------------------
+r226 | kagaro | 2008-01-19 13:25:26 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.toc
+
+GatherMate: toc update
+------------------------------------------------------------------------
+r225 | nevcairiel | 2008-01-19 11:37:24 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: small tweaks
+------------------------------------------------------------------------
+r224 | xinhuan | 2008-01-19 06:49:52 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: Add some descriptions to the General subtree.
+------------------------------------------------------------------------
+r223 | xinhuan | 2008-01-19 05:25:32 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Fix numerous grammar and spelling errors by kagaro. Fix oversight on disable function in config for Data import.
+------------------------------------------------------------------------
+r222 | xinhuan | 2008-01-19 05:11:13 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: Get rid of 20 functions, and replace with 4 generic ones that is more easily extensible
+------------------------------------------------------------------------
+r221 | kagaro | 2008-01-19 05:05:15 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/Libs
+   M /tmp/branches/GatherMate/embeds.xml
+
+GatherMate: removed aceTimer  from externals, embed, and dispaly since we dont use it any more
+------------------------------------------------------------------------
+r220 | kagaro | 2008-01-19 04:42:11 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: put gas clouds back into import options
+------------------------------------------------------------------------
+r218 | xinhuan | 2008-01-19 04:05:00 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: Update import GatherMateData config, and also fix a copy/paste error
+------------------------------------------------------------------------
+r217 | xinhuan | 2008-01-19 03:46:17 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: Fix possible vertex coloring issue on world map pins
+------------------------------------------------------------------------
+r216 | kagaro | 2008-01-19 03:42:25 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: fixed default color of the circle
+------------------------------------------------------------------------
+r215 | kagaro | 2008-01-19 03:31:22 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: color index was reverse for green and blue
+------------------------------------------------------------------------
+r214 | kagaro | 2008-01-19 03:21:05 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: users can now choose the color for the tracking circle
+------------------------------------------------------------------------
+r213 | kagaro | 2008-01-19 02:59:42 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: just hard set the frame levels
+------------------------------------------------------------------------
+r212 | kagaro | 2008-01-19 02:57:58 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: commited with wrong fram level in place
+------------------------------------------------------------------------
+r211 | kagaro | 2008-01-19 02:56:30 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   A /tmp/branches/GatherMate/Artwork/track_circle.tga
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: added white tracking circle, so SetVerticColor can be used
+------------------------------------------------------------------------
+r210 | xinhuan | 2008-01-19 02:53:48 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: Add Show/Hide World Map icons option
+------------------------------------------------------------------------
+r209 | xinhuan | 2008-01-19 02:43:31 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: Fix worldmap to update alpha/scale setting immediately on config change
+------------------------------------------------------------------------
+r208 | kagaro | 2008-01-19 02:31:09 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: fixed frame strata ont he minimapww
+------------------------------------------------------------------------
+r207 | xinhuan | 2008-01-19 02:27:28 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Rearrange config a bit more. Move Cleanup() function to GatherMate.lua. Fire a "GatherMateNodeDeleted" message on node deletion.
+------------------------------------------------------------------------
+r206 | kagaro | 2008-01-19 02:09:12 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: Set the frame level of pins so they arent blocked by world map poi highlights
+------------------------------------------------------------------------
+r205 | xinhuan | 2008-01-19 01:50:05 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Rearrange config. Add a dummy "Show World Map Icons" option that does nothing at the moment.
+------------------------------------------------------------------------
+r204 | kagaro | 2008-01-19 01:38:37 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: updated config for import choices
+------------------------------------------------------------------------
+r203 | nevcairiel | 2008-01-19 00:40:27 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: comment unused alpha line for now
+------------------------------------------------------------------------
+r202 | nevcairiel | 2008-01-19 00:31:22 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: turn debug off again
+------------------------------------------------------------------------
+r201 | xinhuan | 2008-01-19 00:31:16 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Fix up some stuff so the import button is enabled/disabled correctly, fix some errors, rearrange the config trees a bit more.
+------------------------------------------------------------------------
+r200 | nevcairiel | 2008-01-19 00:30:19 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: dont register PEW at all .. who needs PEWPEW anyway
+------------------------------------------------------------------------
+r199 | nevcairiel | 2008-01-19 00:12:59 +0000 (Sat, 19 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: return 0, 0 for PointToYards if we do not have zone information ( happens after zoning out of an instance - IsInInstance() returns false already, but GetRealZoneTest() still returns the instance name
+------------------------------------------------------------------------
+r198 | xinhuan | 2008-01-18 23:49:15 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Rearrange the config tree
+------------------------------------------------------------------------
+r197 | xinhuan | 2008-01-18 23:25:48 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: Tweak config tables slightly so that the list of nodes to filter are alphabetically sorted (works in any locale too!)
+------------------------------------------------------------------------
+r196 | xinhuan | 2008-01-18 22:36:27 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: Remove unused GatherMate:GetNode() after the previous minimap update code optimization
+------------------------------------------------------------------------
+r195 | nevcairiel | 2008-01-18 22:32:43 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+GatherMate: update rich adamantite rare status
+------------------------------------------------------------------------
+r194 | xinhuan | 2008-01-18 22:27:26 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: Cleanup some code so it makes more sense
+------------------------------------------------------------------------
+r193 | kagaro | 2008-01-18 22:24:34 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: start the config section for controlled import needs finished
+------------------------------------------------------------------------
+r191 | nevcairiel | 2008-01-18 22:14:56 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GatherMate: fix cleanup to not delete all nodes, but keep one .. :)
+------------------------------------------------------------------------
+r190 | kagaro | 2008-01-18 22:05:41 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Artwork/Gas/gas_circle.tga
+   M /tmp/branches/GatherMate/Artwork/Herb/herb_circle.tga
+   M /tmp/branches/GatherMate/Artwork/Mine/mine_circle.tga
+
+new circles for gas, herbs, and mines
+------------------------------------------------------------------------
+r189 | kagaro | 2008-01-18 22:05:06 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Artwork/Fish/fish_circle.tga
+
+GatherMate: updated circle for fishing
+------------------------------------------------------------------------
+r188 | nevcairiel | 2008-01-18 22:00:08 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: move some vars around
+------------------------------------------------------------------------
+r187 | nevcairiel | 2008-01-18 21:56:52 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: more tweaks to minimap code, saves alot of distance calculations that had been done twice
+------------------------------------------------------------------------
+r186 | nevcairiel | 2008-01-18 21:46:26 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: simplify icon position updating func, fix some drycode errors
+------------------------------------------------------------------------
+r185 | xinhuan | 2008-01-18 21:22:05 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: Fix kagaro's typo in Constants.lua. Optimize Display:UpdateWorldMap() even further by only changing what is different if forced to redraw in the same  zone instead of redrawing the whole zone of nodes
+------------------------------------------------------------------------
+r184 | kagaro | 2008-01-18 21:12:53 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Added rare spawn login to cleanup
+------------------------------------------------------------------------
+r183 | kagaro | 2008-01-18 21:04:17 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Config screen now has a cleanup function
+------------------------------------------------------------------------
+r182 | nevcairiel | 2008-01-18 20:58:22 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: fix the P_E_W/GRZT()/P_L/P_A misery once and for all
+------------------------------------------------------------------------
+r180 | kagaro | 2008-01-18 20:41:54 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: added config item to lod gathermate data
+------------------------------------------------------------------------
+r179 | nevcairiel | 2008-01-18 20:35:39 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate
+   M /tmp/branches/GatherMate/Artwork
+   M /tmp/branches/GatherMate/Artwork/Fish
+   M /tmp/branches/GatherMate/Artwork/Gas
+   M /tmp/branches/GatherMate/Artwork/Herb
+   M /tmp/branches/GatherMate/Artwork/Mine
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/Libs
+   M /tmp/branches/GatherMate/Locales
+
+GatherMate: dont update the map in OnEnable, wait for P_E_W - GetRealZoneText() seems to return nil before P_E_W
+------------------------------------------------------------------------
+r178 | xinhuan | 2008-01-18 20:29:27 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: Optimize Display:UpdateWorldMap() by a bit so that it only redraws if necessary. Remove unnecessary P_L_W event registration.
+------------------------------------------------------------------------
+r177 | kagaro | 2008-01-18 20:27:36 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+GaherMate: remvoed header entry that did nothing
+------------------------------------------------------------------------
+r176 | nevcairiel | 2008-01-18 20:26:17 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: cache the zone we're in and update it when we run a full map refresh ( on zone change, login, etc )
+------------------------------------------------------------------------
+r175 | nevcairiel | 2008-01-18 19:59:40 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: fix Z_C_N_A event registering
+------------------------------------------------------------------------
+r174 | xinhuan | 2008-01-18 19:38:36 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: Make the right-click pin menu better. Fix errors that Elkano reported.
+------------------------------------------------------------------------
+r173 | nevcairiel | 2008-01-18 19:32:31 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: more comments and nailed some global variables
+------------------------------------------------------------------------
+r172 | nevcairiel | 2008-01-18 19:25:52 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: add some checks to OnEnable and some comments to the minimap code
+------------------------------------------------------------------------
+r171 | nevcairiel | 2008-01-18 19:05:40 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: adapt Display.lua to the latest changes
+------------------------------------------------------------------------
+r170 | xinhuan | 2008-01-18 19:01:52 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: Correct GatherMate:Distance() to return the sqrt distance instead. Change GatherMate:NodeDistanceSquared() API to accept a zonename instead of width/height inputs.
+------------------------------------------------------------------------
+r169 | xinhuan | 2008-01-18 18:55:39 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: Optimize GatherMate:FindNearbyNode() to return a local iterator closure for speed. Inlined the distance check code for speed.
+------------------------------------------------------------------------
+r167 | kagaro | 2008-01-18 16:42:29 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+udpated rare map for missing ooze covered mithril
+------------------------------------------------------------------------
+r166 | kagaro | 2008-01-18 15:19:23 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+turn off/on events when zoning into an instance
+------------------------------------------------------------------------
+r165 | kagaro | 2008-01-18 13:59:21 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+fixed a data bug in the rare list
+------------------------------------------------------------------------
+r164 | kagaro | 2008-01-18 13:27:04 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   D /tmp/branches/GatherMate/Sextant.lua
+
+remove un-needed module
+------------------------------------------------------------------------
+r163 | nevcairiel | 2008-01-18 08:50:46 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: tweak collector checks
+------------------------------------------------------------------------
+r162 | nevcairiel | 2008-01-18 08:08:56 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+
+GatherMate: improve collector rare-spawn handling
+------------------------------------------------------------------------
+r161 | kagaro | 2008-01-18 01:11:18 +0000 (Fri, 18 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+
+updated function name to match what it does now
+------------------------------------------------------------------------
+r160 | kagaro | 2008-01-17 22:59:29 +0000 (Thu, 17 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Sextant.lua
+
+Checkpoint  not ready to use yet
+------------------------------------------------------------------------
+r159 | kagaro | 2008-01-17 20:51:23 +0000 (Thu, 17 Jan 2008) | 1 line
+Changed paths:
+   A /tmp/branches/GatherMate/Sextant.lua
+
+Distance tool and map pins thingy, not in use started not refreenced and shouldnt get loaded t all right now
+------------------------------------------------------------------------
+r158 | nevcairiel | 2008-01-17 20:17:22 +0000 (Thu, 17 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+GatherMate: fix typo in truesilver icon name
+------------------------------------------------------------------------
+r157 | kergoth | 2008-01-17 18:52:05 +0000 (Thu, 17 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: fix typo that was breaking the fishing filter.
+------------------------------------------------------------------------
+r156 | nevcairiel | 2008-01-17 10:47:08 +0000 (Thu, 17 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: remove redundant SQUARE check since its handled by the layouts table too
+------------------------------------------------------------------------
+r155 | nevcairiel | 2008-01-17 10:43:23 +0000 (Thu, 17 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: show more nodes on the edge of the map with an appropriate alpha value so you know which direction to move for more nodes!
+------------------------------------------------------------------------
+r154 | nevcairiel | 2008-01-17 10:02:48 +0000 (Thu, 17 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: force update when deleting a pin
+------------------------------------------------------------------------
+r153 | nevcairiel | 2008-01-17 09:57:06 +0000 (Thu, 17 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: fix minimap update when nodes are added/removed
+------------------------------------------------------------------------
+r152 | nevcairiel | 2008-01-17 09:38:32 +0000 (Thu, 17 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: even smoother icon movement, and run a full update when zoom changes
+------------------------------------------------------------------------
+r151 | kagaro | 2008-01-17 04:14:57 +0000 (Thu, 17 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+changed to 2 secs to try and smooth out the animation
+------------------------------------------------------------------------
+r150 | kagaro | 2008-01-17 03:41:07 +0000 (Thu, 17 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+throttled the db scan to 3 secs, im not seeing any corn field flicking now
+------------------------------------------------------------------------
+r149 | kagaro | 2008-01-17 00:24:35 +0000 (Thu, 17 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+fix for showHerb filter, and second check for GetMinimapShape so no errors during load
+------------------------------------------------------------------------
+r148 | nevcairiel | 2008-01-16 23:20:55 +0000 (Wed, 16 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: 'fix' a debug statement to use the debug function
+------------------------------------------------------------------------
+r147 | nevcairiel | 2008-01-16 21:30:31 +0000 (Wed, 16 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: small tweak to minimap code
+------------------------------------------------------------------------
+r146 | nevcairiel | 2008-01-16 17:15:35 +0000 (Wed, 16 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: fix node recycling
+------------------------------------------------------------------------
+r145 | ammo | 2008-01-16 16:03:21 +0000 (Wed, 16 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/GatherMate.toc
+
+GatherMate: remove onenable and ondisable, not used anyway. Clean up .toc
+------------------------------------------------------------------------
+r144 | nevcairiel | 2008-01-16 15:38:41 +0000 (Wed, 16 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+
+GatherMate: fix iterator usage in collector module
+------------------------------------------------------------------------
+r143 | nevcairiel | 2008-01-16 15:31:56 +0000 (Wed, 16 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: remove tbl argument of FindNearbyNode and use a internal cache instead
+------------------------------------------------------------------------
+r142 | nevcairiel | 2008-01-16 15:29:01 +0000 (Wed, 16 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: plug some more leaks
+------------------------------------------------------------------------
+r141 | nevcairiel | 2008-01-16 15:15:26 +0000 (Wed, 16 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: move strings to string constants
+------------------------------------------------------------------------
+r140 | nevcairiel | 2008-01-16 15:02:34 +0000 (Wed, 16 Jan 2008) | 4 lines
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate:
+- smoothen the minimap update code
+- add throttling logic
+- mem leak somewhere, cookies for finding
+------------------------------------------------------------------------
+r139 | nevcairiel | 2008-01-16 14:26:10 +0000 (Wed, 16 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: tune icon->circle transition range
+------------------------------------------------------------------------
+r138 | nevcairiel | 2008-01-16 14:16:54 +0000 (Wed, 16 Jan 2008) | 3 lines
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: 
+- fix zoom check for indoors
+- fix inRange check for already existing nodes
+------------------------------------------------------------------------
+r137 | kagaro | 2008-01-16 12:25:56 +0000 (Wed, 16 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+removed debug print for now
+------------------------------------------------------------------------
+r136 | kagaro | 2008-01-16 12:14:35 +0000 (Wed, 16 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+added a header line
+------------------------------------------------------------------------
+r135 | kagaro | 2008-01-16 01:50:37 +0000 (Wed, 16 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+fix tracking circle bug
+------------------------------------------------------------------------
+r134 | kagaro | 2008-01-16 01:35:15 +0000 (Wed, 16 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+added showMinimap support
+------------------------------------------------------------------------
+r133 | kagaro | 2008-01-16 01:12:43 +0000 (Wed, 16 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+changes to make the minimap mem usage slimmer, still not quite right. Xinhaun, Ammo take a look and see whats up
+------------------------------------------------------------------------
+r130 | kagaro | 2008-01-15 21:54:14 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Display.lua
+
+minor refactoing for minimap pin mem usage
+------------------------------------------------------------------------
+r129 | kagaro | 2008-01-15 21:43:04 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/GatherMate.toc
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/branches/GatherMate/embeds.xml
+
+configuration system now works
+------------------------------------------------------------------------
+r128 | kagaro | 2008-01-15 18:11:26 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+possible stall state in timer callback
+------------------------------------------------------------------------
+r127 | kagaro | 2008-01-15 18:07:25 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+more filtering stuff
+------------------------------------------------------------------------
+r126 | kagaro | 2008-01-15 18:02:21 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+first pass at filtering DRYCODE
+------------------------------------------------------------------------
+r125 | kagaro | 2008-01-15 17:37:15 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+checkpoint code
+------------------------------------------------------------------------
+r124 | kagaro | 2008-01-15 16:58:08 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+
+it helps if you add the right text in
+------------------------------------------------------------------------
+r123 | kagaro | 2008-01-15 16:56:41 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+
+find and replace error fixed
+------------------------------------------------------------------------
+r122 | kagaro | 2008-01-15 16:30:40 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.toc
+
+udpated toc for savedvars
+------------------------------------------------------------------------
+r121 | kagaro | 2008-01-15 16:18:06 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+more config entries and their localizations
+------------------------------------------------------------------------
+r120 | kagaro | 2008-01-15 16:08:47 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+added the locale entries for teh menu
+------------------------------------------------------------------------
+r119 | kagaro | 2008-01-15 16:04:34 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+herb filter section
+------------------------------------------------------------------------
+r118 | kagaro | 2008-01-15 15:46:10 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+filter defaults
+------------------------------------------------------------------------
+r117 | kagaro | 2008-01-15 14:45:20 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+added config menu localizations
+------------------------------------------------------------------------
+r116 | kagaro | 2008-01-15 14:24:03 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Display.lua
+
+updated todo note
+------------------------------------------------------------------------
+r115 | kagaro | 2008-01-15 14:15:28 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/Libs
+
+updated externals for Aceconfig
+------------------------------------------------------------------------
+r114 | kagaro | 2008-01-15 14:05:19 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+baseline config options added, todo filters
+------------------------------------------------------------------------
+r113 | kagaro | 2008-01-15 14:00:40 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+baseline adding config options
+------------------------------------------------------------------------
+r112 | kagaro | 2008-01-15 13:52:36 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Config.lua
+
+start of config module
+------------------------------------------------------------------------
+r111 | kagaro | 2008-01-15 13:31:30 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+fixed a typo in GetLocale
+------------------------------------------------------------------------
+r110 | kagaro | 2008-01-15 13:30:17 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+fixes ups
+------------------------------------------------------------------------
+r109 | kagaro | 2008-01-15 13:26:31 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+minor optimizations
+------------------------------------------------------------------------
+r108 | kagaro | 2008-01-15 13:18:51 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+removed extra function calls that arent needed
+------------------------------------------------------------------------
+r107 | kagaro | 2008-01-15 13:10:24 +0000 (Tue, 15 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/Display.lua
+
+cleanedup addItem rare node detection, and updated consts for this new lookup
+------------------------------------------------------------------------
+r106 | kagaro | 2008-01-14 03:49:28 +0000 (Mon, 14 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+typo fix
+------------------------------------------------------------------------
+r105 | kagaro | 2008-01-14 03:46:02 +0000 (Mon, 14 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+refactors a unneed lookup
+------------------------------------------------------------------------
+r104 | kagaro | 2008-01-14 03:40:27 +0000 (Mon, 14 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+minor updates, next optimization to look at is memory usage
+------------------------------------------------------------------------
+r103 | kagaro | 2008-01-14 03:27:50 +0000 (Mon, 14 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+some fixes for minimap icons cpu usage
+------------------------------------------------------------------------
+r101 | kagaro | 2008-01-13 21:03:15 +0000 (Sun, 13 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+Minimap now works, lots of optimizations are needed for performance
+------------------------------------------------------------------------
+r100 | kagaro | 2008-01-13 18:37:37 +0000 (Sun, 13 Jan 2008) | 2 lines
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+still not working minimap
+
+------------------------------------------------------------------------
+r99 | kagaro | 2008-01-13 18:20:34 +0000 (Sun, 13 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+updates to minimap
+------------------------------------------------------------------------
+r98 | kagaro | 2008-01-13 17:46:03 +0000 (Sun, 13 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+bunch of changes, minimap is not really working right now
+------------------------------------------------------------------------
+r97 | kagaro | 2008-01-13 15:39:21 +0000 (Sun, 13 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+refactoring updates
+------------------------------------------------------------------------
+r96 | kagaro | 2008-01-13 15:00:29 +0000 (Sun, 13 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+more refactoring
+------------------------------------------------------------------------
+r95 | kagaro | 2008-01-13 14:56:55 +0000 (Sun, 13 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: refactoring
+------------------------------------------------------------------------
+r94 | kagaro | 2008-01-12 15:27:18 +0000 (Sat, 12 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+added tooltip owner for mouse overs
+------------------------------------------------------------------------
+r93 | kagaro | 2008-01-12 15:22:55 +0000 (Sat, 12 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+first pass at minimap stuff
+------------------------------------------------------------------------
+r92 | kagaro | 2008-01-12 13:14:38 +0000 (Sat, 12 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+Added names back in to the pin buttons, UIDropdownmenu doe NOT work on anonymous frames
+------------------------------------------------------------------------
+r91 | kagaro | 2008-01-12 12:47:03 +0000 (Sat, 12 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+updated the tooltip code
+------------------------------------------------------------------------
+r90 | kagaro | 2008-01-12 12:44:33 +0000 (Sat, 12 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+Revert some iterator changes, and minor db upgrade
+------------------------------------------------------------------------
+r89 | xinhuan | 2008-01-12 04:38:40 +0000 (Sat, 12 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: More optimizations.
+------------------------------------------------------------------------
+r88 | xinhuan | 2008-01-12 04:04:18 +0000 (Sat, 12 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+
+GatherMate: More optimizations.
+------------------------------------------------------------------------
+r87 | xinhuan | 2008-01-12 03:38:03 +0000 (Sat, 12 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: Localize our constants, so we no longer have to create a reverse lookup table or even bother doing any looking up. More optimizations.
+------------------------------------------------------------------------
+r86 | xinhuan | 2008-01-12 03:22:36 +0000 (Sat, 12 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: Localize our constants, so we no longer have to get the reverse lookup table.
+------------------------------------------------------------------------
+r85 | xinhuan | 2008-01-12 03:12:39 +0000 (Sat, 12 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+
+GatherMate: More optimizations
+------------------------------------------------------------------------
+r84 | xinhuan | 2008-01-12 02:27:21 +0000 (Sat, 12 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: Minor cleanups
+------------------------------------------------------------------------
+r83 | kagaro | 2008-01-12 01:58:58 +0000 (Sat, 12 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+Checkpoint for world map stuff
+------------------------------------------------------------------------
+r82 | kagaro | 2008-01-12 01:03:31 +0000 (Sat, 12 Jan 2008) | 2 lines
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+updates for woldmap pins, now working
+
+------------------------------------------------------------------------
+r81 | kagaro | 2008-01-11 19:44:54 +0000 (Fri, 11 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+
+GatherMate: added some more nil checks
+------------------------------------------------------------------------
+r80 | kagaro | 2008-01-11 19:40:52 +0000 (Fri, 11 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: Added instance check for map refresh and display
+------------------------------------------------------------------------
+r79 | kagaro | 2008-01-11 19:32:36 +0000 (Fri, 11 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.toc
+
+changed Toc for deps
+------------------------------------------------------------------------
+r78 | kagaro | 2008-01-11 19:31:40 +0000 (Fri, 11 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Libs
+
+GatherMate: changed LibStub to tag instead of branch
+------------------------------------------------------------------------
+r77 | kagaro | 2008-01-11 19:27:43 +0000 (Fri, 11 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Libs
+
+GatherMate: changed LibStub external ref to Ace3 branch so I dont get the tests
+------------------------------------------------------------------------
+r76 | kagaro | 2008-01-11 19:25:12 +0000 (Fri, 11 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/GatherMate.toc
+   M /tmp/branches/GatherMate/Libs
+   D /tmp/branches/GatherMate/Libs/AceAddon-3.0
+   D /tmp/branches/GatherMate/Libs/AceDB-3.0
+   D /tmp/branches/GatherMate/Libs/AceEvent-3.0
+   D /tmp/branches/GatherMate/Libs/AceHook-3.0
+   D /tmp/branches/GatherMate/Libs/AceLocale-3.0
+   D /tmp/branches/GatherMate/Libs/AceTimer-3.0
+   D /tmp/branches/GatherMate/Libs/CallbackHandler-1.0
+   D /tmp/branches/GatherMate/Libs/LibStub
+
+GatherMate: changed from embedded Ace3 to externals pointed at Beta branch
+------------------------------------------------------------------------
+r75 | xinhuan | 2008-01-11 17:08:00 +0000 (Fri, 11 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enES.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-frFR.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-koKR.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-ruRU.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-zhCN.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-zhTW.lua
+
+GatherMate: Massive cleanup and stuff
+------------------------------------------------------------------------
+r73 | kagaro | 2008-01-11 15:22:58 +0000 (Fri, 11 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+Added nodes for Zone iterator for display
+------------------------------------------------------------------------
+r67 | kagaro | 2008-01-09 20:22:07 +0000 (Wed, 09 Jan 2008) | 2 lines
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: more wold map pin updates (drycode)
+
+------------------------------------------------------------------------
+r66 | kagaro | 2008-01-09 15:57:09 +0000 (Wed, 09 Jan 2008) | 2 lines
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: First pass at adding icons to the world map
+
+------------------------------------------------------------------------
+r65 | ammo | 2008-01-09 15:10:36 +0000 (Wed, 09 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.toc
+
+GatherMate: remove x-embeds from toc
+------------------------------------------------------------------------
+r64 | ammo | 2008-01-09 15:09:46 +0000 (Wed, 09 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+
+GatherMate: delete 2 unneeded lines
+------------------------------------------------------------------------
+r63 | kagaro | 2008-01-08 20:54:48 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: updated lookups
+------------------------------------------------------------------------
+r62 | kagaro | 2008-01-08 20:53:24 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+
+GatherMate: adjusted get gather skill
+------------------------------------------------------------------------
+r61 | kagaro | 2008-01-08 19:02:55 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: updated iterator
+------------------------------------------------------------------------
+r60 | kagaro | 2008-01-08 18:22:40 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: basic iterator added
+------------------------------------------------------------------------
+r59 | kagaro | 2008-01-08 16:50:27 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMatE: fixed function ordering
+------------------------------------------------------------------------
+r58 | kagaro | 2008-01-08 16:48:03 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: sill changes
+------------------------------------------------------------------------
+r57 | kagaro | 2008-01-08 16:44:35 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: fixed a typo
+------------------------------------------------------------------------
+r56 | kagaro | 2008-01-08 15:38:02 +0000 (Tue, 08 Jan 2008) | 2 lines
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Constants.lua
+
+GatherMate: refacrtoing
+
+------------------------------------------------------------------------
+r55 | kagaro | 2008-01-08 15:18:23 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate refactoring work
+------------------------------------------------------------------------
+r54 | kagaro | 2008-01-08 14:27:06 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: updates and minor refactoring
+------------------------------------------------------------------------
+r53 | kagaro | 2008-01-08 03:52:24 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   A /tmp/branches/GatherMate/Config.lua
+
+GatherMate: Stub for config
+------------------------------------------------------------------------
+r52 | kagaro | 2008-01-08 03:10:08 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: made round local and cache math.floor
+------------------------------------------------------------------------
+r51 | kagaro | 2008-01-08 02:58:45 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+update constants
+------------------------------------------------------------------------
+r50 | kagaro | 2008-01-08 02:56:04 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/Libs/AceTimer-3.0/AceTimer-3.0.lua
+
+GatherMAte: fixed bug
+------------------------------------------------------------------------
+r49 | kagaro | 2008-01-08 02:42:29 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: cut and paste error
+------------------------------------------------------------------------
+r48 | kagaro | 2008-01-08 02:35:43 +0000 (Tue, 08 Jan 2008) | 2 lines
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: trying multi embeds again
+
+------------------------------------------------------------------------
+r47 | kagaro | 2008-01-08 01:47:49 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/embeds.xml
+
+GatherMate: removed tourist entry from embed.xml
+------------------------------------------------------------------------
+r46 | kagaro | 2008-01-08 00:07:17 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: added to recycling code
+------------------------------------------------------------------------
+r45 | xinhuan | 2008-01-08 00:02:28 +0000 (Tue, 08 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: Add delete node menuitem
+------------------------------------------------------------------------
+r44 | kagaro | 2008-01-07 23:52:15 +0000 (Mon, 07 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: added timer stub
+------------------------------------------------------------------------
+r43 | xinhuan | 2008-01-07 23:42:38 +0000 (Mon, 07 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: Add missing info[] table declaration
+------------------------------------------------------------------------
+r42 | xinhuan | 2008-01-07 23:40:08 +0000 (Mon, 07 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: Add dropdown menu code to pin right-click (drycode)
+------------------------------------------------------------------------
+r41 | kagaro | 2008-01-07 23:20:27 +0000 (Mon, 07 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate bug fix, and redo of pin recycling
+------------------------------------------------------------------------
+r40 | kagaro | 2008-01-07 22:58:05 +0000 (Mon, 07 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/Display.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMAte: first pass of world map pins
+------------------------------------------------------------------------
+r39 | kagaro | 2008-01-07 19:39:04 +0000 (Mon, 07 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Display.lua
+
+GatherMate: added basic Pin type object, need to be fleshout more
+------------------------------------------------------------------------
+r38 | kagaro | 2008-01-07 16:22:07 +0000 (Mon, 07 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: fixed a bug in id conversion
+------------------------------------------------------------------------
+r37 | kagaro | 2008-01-06 18:51:04 +0000 (Sun, 06 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   A /tmp/branches/GatherMate/Libs/AceTimer-3.0
+   A /tmp/branches/GatherMate/Libs/AceTimer-3.0/AceTimer-3.0.lua
+   A /tmp/branches/GatherMate/Libs/AceTimer-3.0/AceTimer-3.0.xml
+   M /tmp/branches/GatherMate/embeds.xml
+
+GatherMate: added acetimer-3.0 and updates to rare spawns and a basic search funtion
+------------------------------------------------------------------------
+r36 | kagaro | 2008-01-06 01:24:37 +0000 (Sun, 06 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+GatherMate:  typo fix , thanks Stanzilla
+------------------------------------------------------------------------
+r35 | kagaro | 2008-01-06 01:21:50 +0000 (Sun, 06 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+added gas and herb icon maps
+------------------------------------------------------------------------
+r34 | kagaro | 2008-01-06 00:58:02 +0000 (Sun, 06 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+GatherMate: added mine icons to map
+------------------------------------------------------------------------
+r33 | kagaro | 2008-01-06 00:45:15 +0000 (Sun, 06 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+GatherMate: finished adding fish node icon lists
+------------------------------------------------------------------------
+r32 | kagaro | 2008-01-05 22:19:03 +0000 (Sat, 05 Jan 2008) | 2 lines
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+GatherMate: updates for more const and icon stuff
+
+------------------------------------------------------------------------
+r31 | kagaro | 2008-01-05 21:40:29 +0000 (Sat, 05 Jan 2008) | 1 line
+Changed paths:
+   A /tmp/branches/GatherMate/Artwork/Fish
+   A /tmp/branches/GatherMate/Artwork/Fish/bluefish.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/darter.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/debris.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/eel.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/feltail.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/firefin.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/fish_circle.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/fish_hook.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/greater_sagefish.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/mudfish.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/net.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/oilspill.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/oilyblackmouth.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/purewater.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/sagefish.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/sporefish.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/steampump.tga
+   A /tmp/branches/GatherMate/Artwork/Fish/treasure.tga
+   A /tmp/branches/GatherMate/Artwork/Gas
+   A /tmp/branches/GatherMate/Artwork/Gas/arcane_vortex.tga
+   A /tmp/branches/GatherMate/Artwork/Gas/felmist.tga
+   A /tmp/branches/GatherMate/Artwork/Gas/gas_circle.tga
+   A /tmp/branches/GatherMate/Artwork/Gas/swamp_gas.tga
+   A /tmp/branches/GatherMate/Artwork/Gas/windy_cloud.tga
+   A /tmp/branches/GatherMate/Artwork/Herb
+   A /tmp/branches/GatherMate/Artwork/Herb/ancient_lichen.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/arthas_tears.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/black_lotus.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/blindweed.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/briarthorn.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/bruiseweed.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/deaming_glory.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/dreamfoil.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/earthroot.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/fadeleaf.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/felweed.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/firebloom.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/flame_cap.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/ghost_mushroom.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/golden_sansam.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/goldthorn.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/grave_moss.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/gromsblood.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/herb_circle.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/icecap.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/khadgars_whisker.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/kingsblood.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/liferoot.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/mageroyal.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/mana_thistle.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/mountain_silversage.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/netherbloom.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/netherdust.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/nightmare_vine.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/peacebloom.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/plaguebloom.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/purple_lotus.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/ragveil.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/silverleaf.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/stranglekelp.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/sungrass.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/terocone.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/wild_steelbloom.tga
+   A /tmp/branches/GatherMate/Artwork/Herb/wintersbite.tga
+   A /tmp/branches/GatherMate/Artwork/Mine
+   A /tmp/branches/GatherMate/Artwork/Mine/adamantium.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/blood_iron.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/copper.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/darkiron.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/ethernium.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/feliron.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/gold.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/iron.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/khorium.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/mine_circle.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/mithril.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/rich_adamantium.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/rich_thorium.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/silver.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/thorium.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/tin.tga
+   A /tmp/branches/GatherMate/Artwork/Mine/truesilver.tga
+   M /tmp/branches/GatherMate/Artwork/readme.txt
+
+GatherMate: inital icons
+------------------------------------------------------------------------
+r30 | kagaro | 2008-01-05 20:32:57 +0000 (Sat, 05 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+GatherMate: added rare node id maps
+------------------------------------------------------------------------
+r29 | kagaro | 2008-01-05 20:08:50 +0000 (Sat, 05 Jan 2008) | 2 lines
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/Constants.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+do an unregister of events during combat to avoid parsing
+
+------------------------------------------------------------------------
+r28 | kagaro | 2008-01-05 19:52:55 +0000 (Sat, 05 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/GatherMate.lua
+
+changed id generation to always be numbers
+------------------------------------------------------------------------
+r27 | kagaro | 2008-01-05 16:44:24 +0000 (Sat, 05 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Constants.lua
+
+GatherMate: redid node it ordering
+------------------------------------------------------------------------
+r26 | kagaro | 2008-01-05 16:10:29 +0000 (Sat, 05 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+
+GatherMate: Added in code to detect gas clouds, someday blizz could make the clouds visiable as unit and the code can be optimized
+------------------------------------------------------------------------
+r25 | kagaro | 2008-01-04 21:42:23 +0000 (Fri, 04 Jan 2008) | 1 line
+Changed paths:
+   A /tmp/branches/GatherMate/Constants.lua
+
+GatherMate: updated mini map scanning for rotating map degrees, added a seperate constants are to un muck code
+------------------------------------------------------------------------
+r24 | kagaro | 2008-01-04 21:42:08 +0000 (Fri, 04 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/GatherMate.toc
+
+GatherMate: updated mini map scanning for rotating map degrees, added a seperate constants are to un muck code
+------------------------------------------------------------------------
+r23 | kagaro | 2008-01-04 17:19:59 +0000 (Fri, 04 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/GatherMate.toc
+
+GatherMate: working out storage
+------------------------------------------------------------------------
+r22 | kagaro | 2008-01-04 15:25:12 +0000 (Fri, 04 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/Libs
+
+GatherMate: removed touristlib from externals and added self lookup table
+------------------------------------------------------------------------
+r21 | kagaro | 2008-01-04 14:04:16 +0000 (Fri, 04 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/embeds.xml
+
+GatherMate: updates for toursit and embeds file
+------------------------------------------------------------------------
+r20 | kagaro | 2008-01-04 13:54:55 +0000 (Fri, 04 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Libs
+
+GatherMate: fixed external ref for bable zone
+------------------------------------------------------------------------
+r19 | kagaro | 2008-01-04 13:51:29 +0000 (Fri, 04 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/Libs
+   M /tmp/branches/GatherMate/Locales/GatherMate-deDE.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enES.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-frFR.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-koKR.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-ruRU.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-zhCN.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-zhTW.lua
+
+GatherMate: added tourist externals
+------------------------------------------------------------------------
+r18 | kagaro | 2008-01-04 00:56:32 +0000 (Fri, 04 Jan 2008) | 1 line
+Changed paths:
+   M /tmp/branches/GatherMate/Collector.lua
+   M /tmp/branches/GatherMate/GatherMate.lua
+   M /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+
+GatherMate: dry code fixes 
+------------------------------------------------------------------------
+r17 | kagaro | 2008-01-03 20:48:19 +0000 (Thu, 03 Jan 2008) | 1 line
+Changed paths:
+   A /tmp/branches/GatherMate
+   A /tmp/branches/GatherMate/Artwork
+   A /tmp/branches/GatherMate/Artwork/readme.txt
+   A /tmp/branches/GatherMate/Collector.lua
+   A /tmp/branches/GatherMate/Display.lua
+   A /tmp/branches/GatherMate/GatherMate.lua
+   A /tmp/branches/GatherMate/GatherMate.toc
+   A /tmp/branches/GatherMate/Libs
+   A /tmp/branches/GatherMate/Libs/AceAddon-3.0
+   A /tmp/branches/GatherMate/Libs/AceAddon-3.0/AceAddon-3.0.lua
+   A /tmp/branches/GatherMate/Libs/AceAddon-3.0/AceAddon-3.0.xml
+   A /tmp/branches/GatherMate/Libs/AceDB-3.0
+   A /tmp/branches/GatherMate/Libs/AceDB-3.0/AceDB-3.0.lua
+   A /tmp/branches/GatherMate/Libs/AceDB-3.0/AceDB-3.0.xml
+   A /tmp/branches/GatherMate/Libs/AceEvent-3.0
+   A /tmp/branches/GatherMate/Libs/AceEvent-3.0/AceEvent-3.0.lua
+   A /tmp/branches/GatherMate/Libs/AceEvent-3.0/AceEvent-3.0.xml
+   A /tmp/branches/GatherMate/Libs/AceHook-3.0
+   A /tmp/branches/GatherMate/Libs/AceHook-3.0/AceHook-3.0.lua
+   A /tmp/branches/GatherMate/Libs/AceHook-3.0/AceHook-3.0.xml
+   A /tmp/branches/GatherMate/Libs/AceLocale-3.0
+   A /tmp/branches/GatherMate/Libs/AceLocale-3.0/AceLocale-3.0.lua
+   A /tmp/branches/GatherMate/Libs/AceLocale-3.0/AceLocale-3.0.xml
+   A /tmp/branches/GatherMate/Libs/CallbackHandler-1.0
+   A /tmp/branches/GatherMate/Libs/CallbackHandler-1.0/CallbackHandler-1.0.lua
+   A /tmp/branches/GatherMate/Libs/CallbackHandler-1.0/CallbackHandler-1.0.xml
+   A /tmp/branches/GatherMate/Libs/LibStub
+   A /tmp/branches/GatherMate/Libs/LibStub/LibStub.lua
+   A /tmp/branches/GatherMate/Libs/LibStub/LibStub.toc
+   A /tmp/branches/GatherMate/Locales
+   A /tmp/branches/GatherMate/Locales/GatherMate-deDE.lua
+   A /tmp/branches/GatherMate/Locales/GatherMate-enES.lua
+   A /tmp/branches/GatherMate/Locales/GatherMate-enUS.lua
+   A /tmp/branches/GatherMate/Locales/GatherMate-frFR.lua
+   A /tmp/branches/GatherMate/Locales/GatherMate-koKR.lua
+   A /tmp/branches/GatherMate/Locales/GatherMate-ruRU.lua
+   A /tmp/branches/GatherMate/Locales/GatherMate-zhCN.lua
+   A /tmp/branches/GatherMate/Locales/GatherMate-zhTW.lua
+   A /tmp/branches/GatherMate/Locales.xml
+   A /tmp/branches/GatherMate/embeds.xml
+
+GatherMate: initial import. ace3 based gathering mod
+------------------------------------------------------------------------
